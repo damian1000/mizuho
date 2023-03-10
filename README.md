@@ -8,5 +8,4 @@ The following functionality was written in Kotlin by the classes Order, OrderBoo
 5. Given a side and a level return the total size available for that level
 6. Given a side return all the orders from that side of the book, in level- and time-order
 
-Please look at the test class called TestSimpleOrderBook that checks whether the above functionality was implemented correctly.
 
