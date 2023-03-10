@@ -1,5 +1,3 @@
-Java Technical Test
-
 PART A
 The following functionality was written in Kotlin by the classes Order, OrderBook, and SimpleOrderBook:
 
@@ -13,9 +11,3 @@ The following functionality was written in Kotlin by the classes Order, OrderBoo
 
 Please look at the test class called TestSimpleOrderBook that checks whether the above functionality was implemented correctly.
 
-PART B.
-To support real-life, latency-sensitive trading operations, the following changes are suggested:
-
-1. Add support for multiple symbols, as a business will most likely trade more than one symbol.
-2. Add support for multiple threads to operate on this class in a thread-safe manner. This can be achieved by using concurrent data structures, such as ConcurrentSkipListMap and ConcurrentHashMap, to reduce latency.
-3. Use the compute method when accessing a map to ensure that operations are atomic.
