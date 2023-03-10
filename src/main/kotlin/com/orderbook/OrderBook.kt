@@ -1,4 +1,4 @@
-package com.mizuho
+package com.orderbook
 
 interface OrderBook {
     fun addOrder(order: Order)
