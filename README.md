@@ -1,4 +1,3 @@
-PART A
 The following functionality was written in Kotlin by the classes Order, OrderBook, and SimpleOrderBook:
 
 1. Given an Order, add it to the OrderBook (order additions are expected to occur extremely frequently)
